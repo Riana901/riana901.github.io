@@ -2,7 +2,7 @@
 
 
 
-- [DATA CLEANSING](http://localhost:8888/notebooks/Downloads/TUGAS%205-6.ipynb))
+- [DATA CLEANSING](https://colab.research.google.com/drive/1lOgCXUPkz_cAln4ZTxfXDYZWjmHVPSFy)
 
 
 ---
